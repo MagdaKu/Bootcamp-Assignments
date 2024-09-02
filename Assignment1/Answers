@@ -1,0 +1,3 @@
+.gitignore is used to store all the files and directories that should be ignored while making a commit. This prevents unnecessary files from being tracked.
+
+Requirements.txt is a file that contains all the libraries and packages needed for the project. It can help to better manage the project.
