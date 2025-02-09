@@ -1,11 +1,11 @@
 ## Description  
-This repository was created for a 16-week **"Software or Data Engineer"** bootcamp. Throughout the course, four assignments were completed, each focusing on different aspects of programming and database management.  
+This repository was created for a 16-week **"Software or Data Engineering"** bootcamp. Throughout the course, four assignments were completed, each focusing on different aspects of programming and database management.  
 
 ### **Assignment 1: Git & GitHub Commands**  
 This assignment demonstrates the usage and implementation of GitHub commands, covering essential version control operations.  
 
 ### **Assignment 2: Python Quiz Application**  
-This is a Python-based quiz that retrieves questions from the **Open Trivia Database**. The user can select a category and answer five **True or False** questions.  
+This is a Python-based quiz that retrieves questions from **Open Trivia Database**. This database provides a free JSON API for use in programming projects. The user can select a category and answer five **True or False** questions. 
 
 Upon completion, a new file, `quiz_results.txt`, is generated, containing:  
 - The quiz questions  
@@ -32,6 +32,7 @@ This project involves developing a database-driven reservation system for a **Ci
 - **`app_cinema.py` & `main_cinema.py`** – Must run simultaneously:  
   - `app_cinema.py` connects to the server.  
   - `main_cinema.py` provides an interface for customer interactions, handling reservation management.  
+
 
 
 
